@@ -15,3 +15,6 @@ function tri(numbers, order) {
 
     return numbers;
 }
+
+console.log(tri([5, 2, 9, 1], "asc"));
+console.log(tri([5, 2, 9, 1], "desc"));
